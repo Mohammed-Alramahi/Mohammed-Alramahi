@@ -1,5 +1,5 @@
 ### Hello World, I'm Mohammed Al-ramahi :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width = 400/>
 
 -----
 #### I worked with various web technologies like  React, bootstrap, and node js. and I have a strong background in php with mysql. I had a passion about being a programmer from long time ago back in school and now I can make full stack applications using MERN stack.
