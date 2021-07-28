@@ -1,12 +1,11 @@
-### Hello World, I'm Mohammed Al-ramahi :purple_heart:
+### Hello World, I'm Mohammed Al-ramahi :heart:
 <img alt="GIF" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width = 400/>
 
 -----
 #### I worked with various web technologies like  React, bootstrap, and node js. and I have a strong background in php with mysql. I had a passion about being a programmer from long time ago back in school and now I can make full stack applications using MERN stack.
 
-### My skills :woman_technologist:
+### My skills :man_technologist:
 
-- **Web Development**
 <table>
 <tbody>
  
