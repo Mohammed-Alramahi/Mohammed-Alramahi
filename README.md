@@ -50,5 +50,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alramahi&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alramahi&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
-<h4>:mailbox:<a href="mailto:vittosc1997@gmail.com">Contact Me</a> </h4>
+<h2>:mailbox:<a href="mailto:vittosc1997@gmail.com">Contact Me</a> </h2>
 <hr/>
