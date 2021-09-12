@@ -1,5 +1,5 @@
 ### Hello World, I'm Mohammed Al-ramahi :heart:
-<img alt="GIF" src="https://media.giphy.com/media/QnMJm9bVR9nDa/giphy.gif?cid=ecf05e47rvws9a090z59tsmrb4gqpfanadjmb09hxb1blbt0&rid=giphy.gif&ct=g" width = 400/>
+<img alt="GIF" src="https://media2.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e47fdip12hzy1efxqs9zp7q9jqeoastcuckdvfyunxa&rid=giphy.gif&ct=g" width = 400/>
 
 -----
 #### I worked with various web technologies like  React, bootstrap, and node js. and I have a strong background in php with mysql. I had a passion about being a programmer from long time ago back in school and now I can make full stack applications using MERN stack.
@@ -49,6 +49,10 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alramahi&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alramahi&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+ 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Alramahi)
+ 
 </p>
 <h2>:mailbox:<a href="mailto:vittosc1997@gmail.com">Contact Me</a> </h2>
+
 <hr/>
