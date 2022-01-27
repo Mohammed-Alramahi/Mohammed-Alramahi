@@ -2,7 +2,8 @@
 <img alt="GIF" src="https://media2.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e47fdip12hzy1efxqs9zp7q9jqeoastcuckdvfyunxa&rid=giphy.gif&ct=g" width = 400/>
 
 -----
-#### I worked with various web technologies like  React, bootstrap, and node js. and I have a strong background in php with mysql. I had a passion about being a programmer from long time ago back in school and now I can make full stack applications using MERN stack.
+#### I’m a full stack software engineer who is passionate about being one of the best in this field while learning day by day and applying best practices and SOLID principles.
+.
 
 ### My skills :man_technologist:
 
