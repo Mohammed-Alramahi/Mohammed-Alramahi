@@ -5,7 +5,7 @@
 #### I’m a full stack software engineer who is passionate about being one of the best in this field while learning day by day and applying best practices and SOLID principles.
 .
 
-### My skills :man_technologist:
+### My skill :man_technologist:
 
 <table>
 <tbody>
