@@ -12,14 +12,14 @@
  
 
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
  
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"> 
 </td>
 <tr>
  
@@ -36,17 +36,23 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> 
+  <td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"> 
 </td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+  
+  <td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
+
+  <td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"> 
+</td>
+
 </tr>
 </tbody>
 </table>
     
-<br>
+</br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alramahi&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alramahi&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
