@@ -10,20 +10,22 @@
 <table>
 <tbody>
  
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+ <td align="center" width="25%">
+<img height=80px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">  
+ </td>
  
-<td align="center" width="33%">
+ <td align="center" width="25%">
+<img height=80px src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> 
+ </td>
+
+<td align="center" width="25%">
+<img height=80px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+ </td>
+<td align="center" width="25%">
+ 
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"> 
-</td>
-<tr>
- 
- </tr>
 </tbody>
 </table>
 
@@ -32,22 +34,23 @@
 - **Competitive Coding**
     - Dynamic Programming
     
-- **Web Development**
+- **Other Web Technologies**
 <table>
 <tbody>
  <tr>
-  <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"> 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"> 
 </td>
+ 
+  <td align="center" width="33%">
+   <img height=100px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+
+</td>
+
+  <td align="center" width="33%">
+   <img height=100px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"/>
+  </td>
   
-  <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-
-  <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"> 
-</td>
-
 </tr>
 </tbody>
 </table>
